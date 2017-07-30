@@ -1,0 +1,14 @@
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.deps.json
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.dll
+D:\Repositorios\pageFactoryNetCoreIssue\obj\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.csprojResolveAssemblyReference.cache
+D:\Repositorios\pageFactoryNetCoreIssue\obj\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.csproj.CoreCompileInputs.cache
+D:\Repositorios\pageFactoryNetCoreIssue\obj\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.AssemblyInfoInputs.cache
+D:\Repositorios\pageFactoryNetCoreIssue\obj\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.AssemblyInfo.cs
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.runtimeconfig.json
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.runtimeconfig.dev.json
+D:\Repositorios\pageFactoryNetCoreIssue\bin\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.pdb
+D:\Repositorios\pageFactoryNetCoreIssue\obj\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.dll
+D:\Repositorios\pageFactoryNetCoreIssue\obj\Debug\netcoreapp2.0\pageFactoryNetCoreIssue.pdb
